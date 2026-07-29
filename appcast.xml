@@ -6,6 +6,12 @@
     <description>Auto-update feed for Black Sheep PDF</description>
     <language>en</language>
     <item>
+      <title>Version 1.5.2</title>
+      <pubDate>Wed, 29 Jul 2026 22:04:44 +0000</pubDate>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/emmitt22991/blacksheeppdf-appcast/releases/download/v1.5.2/BlackSheepPDF-1.5.2.dmg" length="5217559" type="application/octet-stream" sparkle:version="20" sparkle:shortVersionString="1.5.2" sparkle:edSignature="pVkaIXr5O/3bCfyq0Z0qP81BW7KZQAcxHHVZUIIUnFsuKgibycCWG1fl2JBTFQl5zuI8OKu+4DZlPqxg6SB0Bg==" />
+    </item>
+    <item>
       <title>Version 1.5.0</title>
       <pubDate>Wed, 29 Jul 2026 21:28:12 +0000</pubDate>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
